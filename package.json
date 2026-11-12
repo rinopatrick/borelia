@@ -11,6 +11,6 @@
     "slo:heavy": "node scripts/slo_heavy_gate.js"
   },
   "devDependencies": {
-    "playwright": "^1.64.1"
+    "playwright": "^1.65.0"
   }
 }
